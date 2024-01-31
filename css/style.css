@@ -1038,11 +1038,11 @@ section.about .about-content .about-heading span {
 }
 
 section.about .about-content p {
-    line-height: 28px;
+    line-height: 25px;
 }
 
 section.about .about-content .social-icons {
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 section.about .about-content .social-icons a {
